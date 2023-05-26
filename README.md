@@ -1,10 +1,10 @@
-## Vite + React-ts + Eslint + Prettier + Tailwind + Redux-toolkit Starter 🐣🐤🐥
+## 🐣 Vite + React-ts + Eslint + Prettier + Tailwind + Redux-toolkit Starter 🐤
 
 ---
 
 Create a new project with Vite, React JS, TypeScript, Eslint, Prettier, Tailwind, Redux-Toolkit in just 1 second and you don't need to setup anything.
 
-## Using 😀
+## Using 🐥
 
 1. Clone Template
    ```
